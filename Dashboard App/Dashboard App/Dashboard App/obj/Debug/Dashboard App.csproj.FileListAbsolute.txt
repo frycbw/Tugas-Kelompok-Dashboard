@@ -1,0 +1,143 @@
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe.config
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\bin\Debug\Dashboard App.pdb
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csprojAssemblyReference.cache
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Form1.resources
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Properties.Resources.resources
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.GenerateResource.cache
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.CoreCompileInputs.cache
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.CopyComplete
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard App.exe
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\obj\Debug\Dashboard App.pdb
+D:\Tugas\JTIF\Semester 4\Pemrograman Visual\Dashboard App\Dashboard App\bin\Debug\Guna.UI.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe.config
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.pdb
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.pdb
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csprojAssemblyReference.cache
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Form1.resources
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Properties.Resources.resources
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.GenerateResource.cache
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.CopyComplete
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.exe
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.pdb
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Buffers.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Memory.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Json.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.ValueTuple.dll
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.pdb
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Buffers.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Memory.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Json.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fachriza\source\repos\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.ValueTuple.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe.config
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.pdb
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Buffers.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Memory.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Json.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.ValueTuple.dll
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.pdb
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.pdb
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Buffers.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Memory.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Json.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.ValueTuple.xml
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Form1.resources
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Properties.Resources.resources
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.GenerateResource.cache
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.CopyComplete
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.exe
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.pdb
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.dashboard.resources
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_pelanggan.resources
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_transaksi.resources
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_paket.resources
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_penerimaan.resources
+C:\Users\Naufal\Downloads\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csprojAssemblyReference.cache
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe.config
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.exe
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Dashboard App.pdb
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Buffers.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Memory.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Json.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.ValueTuple.dll
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.pdb
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.pdb
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\Npgsql.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Buffers.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Memory.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Text.Json.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\bin\Debug\System.ValueTuple.xml
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csprojAssemblyReference.cache
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.dashboard.resources
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Form1.resources
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_paket.resources
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_pelanggan.resources
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_penerimaan.resources
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.laporan_transaksi.resources
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard_App.Properties.Resources.resources
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.GenerateResource.cache
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.csproj.CopyComplete
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.exe
+C:\Users\Dimas Shafir\Documents\Dashboard App new fix\Dashboard App new\Dashboard App\Dashboard App\Dashboard App\obj\Debug\Dashboard App.pdb
